@@ -169,6 +169,11 @@ body {
   color: #fff;
 }
 
+h6 {
+  font: 400;
+  color: #fff;
+}
+
 /* Media Queries */
 
 @media (max-width: 420px) {
